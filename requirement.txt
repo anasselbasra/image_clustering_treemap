@@ -1,0 +1,30 @@
+# === Core dependencies ===
+numpy>=1.23
+pandas>=2.0
+scikit-learn>=1.3
+scipy>=1.10
+
+# === Deep Learning & Transformers ===
+torch>=2.1
+transformers>=4.39
+huggingface-hub>=0.21
+tqdm>=4.66
+
+# === Clustering & Dimensionality Reduction ===
+umap-learn>=0.5.5
+hdbscan>=0.8.33
+
+# === Visualization ===
+matplotlib>=3.7
+plotly>=5.20
+dash>=2.14
+squarify>=0.4.3
+
+# === Image Processing ===
+Pillow>=10.0
+requests>=2.31
+opencv-python-headless>=4.8  # optional, useful for preprocessing images
+
+# === Utilities ===
+python-dotenv>=1.0
+concurrent-log-handler>=0.9.25
