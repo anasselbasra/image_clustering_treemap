@@ -9,9 +9,9 @@ Explore how high-dimensional image embeddings can be grouped, narrated, and visu
 - **4_treemap.ipynb** – Assemble clusters into a treemap dashboard for an at-a-glance overview of repeating imagery.
 
 ## Highlights
-![Visual clustering scatter plot](assets/visual_clustering_recognition_france-palestine.jpg)
-
 ![Semantic clustering annotated clusters](assets/semantic_clustering_recognition_france_palestine.jpg)
+
+![Visual clustering scatter plot](assets/visual_clustering_recognition_france-palestine.jpg)
 
 ![Treemap of recurring visuals](assets/treemap.png)
 
