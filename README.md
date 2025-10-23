@@ -16,3 +16,11 @@ Explore how high-dimensional image embeddings can be grouped, narrated, and visu
 ![Treemap of recurring visuals](assets/treemap.png)
 
 Dive into the notebooks to adapt the pipeline to your own datasets and craft story-driven visual analytics experiences.
+
+## Quick Start
+
+```bash
+# install
+pip install -r requirements.txt
+
+# run main notebooks (1 to 4)
